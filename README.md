@@ -1,7 +1,5 @@
-[![HitCount](http://hits.dwyl.io/IsaacMo12/PacMan.svg)](http://hits.dwyl.io/IsaacMo12/PacMan)
-
-## PacMan
-# PacMan in C++ using Sfml . 
+# Pacman
+A Desktop Game using C++ and SFML. 
 # How to play :
  The aim of pacman is to eat all the dots to advance to the next level, without being caught by the ghosts. 
 
